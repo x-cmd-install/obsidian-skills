@@ -1,0 +1,53 @@
+about:
+  description: Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+  license: MIT
+  homepage: 
+  head: a1dc48e
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-01T05:05:44Z
+timeline:
+  created: 2026-01-02
+  lastCommit: 2026-06-08
+  lastRelease: ?
+popularity:
+  star: 47603
+  watcher: 246
+  fork: 3419
+  release: 0
+  contributor: 16
+  pullRequest: 64
+  issue: 50
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 2
+    closedIssue: 0
+    openIssue: 4
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 0
+    openPR: 24
+    closedIssue: 1
+    openIssue: 14
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 0
+    mergedPR: 5
+    openPR: 34
+    closedIssue: 6
+    openIssue: 25
+    commit: 6
+  last360d:
+    since: 2025-09-06
+    release: 0
+    mergedPR: 16
+    openPR: 37
+    closedIssue: 20
+    openIssue: 30
+    commit: 31
