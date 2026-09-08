@@ -5,13 +5,13 @@ about:
   head: a1dc48e
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-08T01:45:29Z
+  collectedAt: 2026-09-08T04:43:15Z
 timeline:
   created: 2026-01-02
   lastCommit: 2026-06-08
   lastRelease: 
 popularity:
-  star: 47996
+  star: 48004
   watcher: 250
   fork: 3434
   release: 0
@@ -76,7 +76,7 @@ total:
   commit: 46
 ---
 path: /home/runner/.x-repo/github.com/kepano/obsidian-skills
-collectedAt: 2026-09-08T01:45:30Z
+collectedAt: 2026-09-08T04:43:16Z
 loc:
   Markdown:
     code: 0
