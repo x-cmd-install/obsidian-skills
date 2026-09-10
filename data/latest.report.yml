@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:40:11Z
+  collectedAt: 2026-09-10T16:13:59Z
 timeline:
   created: 2026-01-02
   lastCommit: 2026-06-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 48090
+  star: 48117
   watcher: 249
-  fork: 3436
+  fork: 3437
   release: 0
   contributor: 16
   pullRequest: 81
@@ -80,7 +80,7 @@ total:
   commit: 46
 ---
 path: /home/runner/.x-repo/github.com/kepano/obsidian-skills
-collectedAt: 2026-09-10T04:40:11Z
+collectedAt: 2026-09-10T16:13:59Z
 loc:
   Markdown:
     code: 0
