@@ -19,7 +19,7 @@ x install obsidian-skills
 
 ## Popularity
 
-- **Stars**: 50,711 · **Forks**: 3,584 · **Open issues**: 60 · **Contributors**: 17
+- **Stars**: 50,768 · **Forks**: 3,590 · **Open issues**: 60 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -29,12 +29,12 @@ x install obsidian-skills
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 1 | 1 | 1 | 0 |
-| last60d | 2026-09-05 | 0 | 1 | 2 | 1 | 7 | 2 |
-| 90d | 2026-08-06 | 0 | 1 | 4 | 1 | 12 | 2 |
-| last180d | 2026-05-08 | 0 | 2 | 28 | 2 | 23 | 4 |
-| 360d | 2025-11-09 | 0 | 17 | 37 | 22 | 38 | 33 |
-| last720d | 2024-11-14 | 0 | 17 | 37 | 22 | 38 | 49 |
+| 30d | 2026-10-06 | 0 | 0 | 1 | 1 | 1 | 0 |
+| last60d | 2026-09-06 | 0 | 1 | 2 | 1 | 6 | 2 |
+| 90d | 2026-08-07 | 0 | 1 | 4 | 1 | 12 | 2 |
+| last180d | 2026-05-09 | 0 | 2 | 28 | 2 | 23 | 4 |
+| 360d | 2025-11-10 | 0 | 17 | 37 | 22 | 38 | 33 |
+| last720d | 2024-11-15 | 0 | 17 | 37 | 22 | 38 | 49 |
 
 ## Improve this data
 
@@ -45,4 +45,4 @@ Install metadata for obsidian-skills lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:11:06Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:38:19Z._
