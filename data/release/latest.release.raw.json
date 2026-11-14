@@ -43,13 +43,13 @@
   "body": "Obsidian Skills is now one plugin for Claude Code, Codex and Cursor, published by Obsidian. The repository moved to `obsidianmd/obsidian-skills`, and old links redirect.\n\nIf you installed from the Claude Code marketplace, run `claude plugin update obsidian@obsidian-skills`. Earlier changes, including the Knap skill, didn't reach existing installs because the version stayed at 1.0.1 (#146). `scripts/bump.sh` now sets the version in every manifest.\n\n### Plugin\n\n- Moved the skills to `plugins/obsidian/skills/`.\n- Added Codex and Cursor marketplaces next to the Claude one (#110, #142).\n- Added a plugin icon, README and license for the Claude, Codex, ChatGPT and Cursor directories.\n\n### Skills\n\n- Obsidian CLI: `content=` converts every `\\n` and `\\t` with no escape, so the skill writes content with backslashes, such as LaTeX, directly to the file.\n- Obsidian CLI: documented how the CLI picks a vault, exit status 0 on errors, the update-links dialog that `rename` and `move` wait on, dots in file names, and `rename`, `move` and `delete` (#131, #132).\n- Obsidian CLI, Defuddle, Knap: check that the tool is installed and ask before installing it.\n- Markdown: escape alias pipes in tables, quote wikilinks in YAML, link aliases as `[[Note|Alias]]`, and colored highlights (#105, #114).\n- Bases: documented `sort` and inline `base` code blocks (#121), and fixed a skill load error (#116).\n- Canvas: documented quote escaping and CJK sizing (#118).\n\nThanks @arimu1, @oppegard, @mahihasinabrar-hub, @duvafers99-prog, @Anneo22, @kpeez and @adriannoes!\n",
   "reactions": {
     "url": "https://api.github.com/repos/obsidianmd/obsidian-skills/releases/441862222/reactions",
-    "total_count": 7,
-    "+1": 7,
+    "total_count": 11,
+    "+1": 10,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 0,
+    "heart": 1,
     "rocket": 0,
     "eyes": 0
   },
