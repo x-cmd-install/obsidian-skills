@@ -20,7 +20,7 @@ Total: **112** lines of code across **18** files in the top 5 languages.
 |----------|-----:|---------:|-------:|------:|
 | Json | 69 | 0 | 0 | 2 |
 | Sh | 43 | 3 | 13 | 2 |
-| Markdown | 0 | 925 | 446 | 14 |
+| Markdown | 0 | 929 | 448 | 14 |
 
 ## Source
 
@@ -30,27 +30,27 @@ Total: **112** lines of code across **18** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.2.0` (2026-11-16)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-19
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 53,192 · **Forks**: 3,787 · **Open issues**: 61 · **Contributors**: 26
+- **Stars**: 53,267 · **Forks**: 3,791 · **Open issues**: 61 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 34 · **Open PRs**: 1 · **Closed issues**: 59 · **Open issues**: 2 · **Commits**: 102
+- **Releases**: 2 · **Merged PRs**: 34 · **Open PRs**: 1 · **Closed issues**: 59 · **Open issues**: 2 · **Commits**: 103
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-21 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-29 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-21 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-21 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-24 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-25 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-30 | 2 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -67,4 +67,4 @@ Install metadata for obsidian-skills lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:58:13Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:19:57Z._
