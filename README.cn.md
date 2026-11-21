@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 
 [![x-cmd/install — obsidian-skills Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/obsidian-skills.svg?lang=zh)](https://x-cmd.com/install/obsidian-skills)
 
@@ -29,34 +29,34 @@ x install obsidian-skills
 
 ## 发布
 
-- **最新版本**: `1.2.0` (2026-11-16)
-- **最近提交**: 2026-11-19
+- **最新版本**: `1.2.1` (2026-11-20)
+- **最近提交**: 2026-11-20
 - **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 53,267 · **Fork**: 3,791 · **开放 issue**: 61 · **贡献者**: 26
+- **Star**: 53,331 · **Fork**: 3,795 · **开放 issue**: 62 · **贡献者**: 26
 
 ## 累计统计
 
-- **发布数**: 2 · **已合并 PR**: 34 · **开放 PR**: 1 · **已关闭 issue**: 59 · **开放 issue**: 2 · **提交数**: 103
+- **发布数**: 3 · **已合并 PR**: 34 · **开放 PR**: 1 · **已关闭 issue**: 60 · **开放 issue**: 2 · **提交数**: 104
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-25 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-30 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-22 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-23 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-25 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-26 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-01 | 3 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [obsidian-gemini.tar.gz](https://github.com/kepano/obsidian-skills/releases/download/1.2.0/obsidian-gemini.tar.gz) | 22.0 KiB | `native/unknown` |
+| [obsidian-gemini.tar.gz](https://github.com/kepano/obsidian-skills/releases/download/1.2.1/obsidian-gemini.tar.gz) | 21.7 KiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -67,4 +67,4 @@ obsidian-skills 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T07:19:57Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T07:05:06Z._
