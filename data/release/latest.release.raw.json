@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/obsidianmd/obsidian-skills/releases/447603381",
-  "assets_url": "https://api.github.com/repos/obsidianmd/obsidian-skills/releases/447603381/assets",
-  "upload_url": "https://uploads.github.com/repos/obsidianmd/obsidian-skills/releases/447603381/assets{?name,label}",
-  "html_url": "https://github.com/obsidianmd/obsidian-skills/releases/tag/1.2.0",
-  "id": 447603381,
+  "url": "https://api.github.com/repos/obsidianmd/obsidian-skills/releases/453092636",
+  "assets_url": "https://api.github.com/repos/obsidianmd/obsidian-skills/releases/453092636/assets",
+  "upload_url": "https://uploads.github.com/repos/obsidianmd/obsidian-skills/releases/453092636/assets{?name,label}",
+  "html_url": "https://github.com/obsidianmd/obsidian-skills/releases/tag/1.2.1",
+  "id": 453092636,
   "author": {
     "login": "kepano",
     "id": 10565871,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOQyvZCM4areK1",
-  "tag_name": "1.2.0",
-  "target_commitish": "caf3e98cd22d810db164f26c9a442f0a280daa43",
-  "name": "1.2.0",
+  "node_id": "RE_kwDOQyvZCM4bAaUc",
+  "tag_name": "1.2.1",
+  "target_commitish": "b110b2f8e9eb1f287892f937050dfd40af862cbb",
+  "name": "1.2.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-16T20:53:24Z",
-  "updated_at": "2026-11-16T20:55:54Z",
-  "published_at": "2026-11-16T20:55:46Z",
+  "created_at": "2026-11-20T17:04:07Z",
+  "updated_at": "2026-11-20T19:22:55Z",
+  "published_at": "2026-11-20T19:22:47Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/obsidianmd/obsidian-skills/releases/assets/756415472",
-      "id": 756415472,
-      "node_id": "RA_kwDOQyvZCM4tFfvw",
+      "url": "https://api.github.com/repos/obsidianmd/obsidian-skills/releases/assets/773050472",
+      "id": 773050472,
+      "node_id": "RA_kwDOQyvZCM4uE9Bo",
       "name": "obsidian-gemini.tar.gz",
       "label": "",
       "uploader": {
@@ -65,28 +65,16 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 22510,
-      "digest": "sha256:df3980615a844653dd54699e92259e5f16d66ef68a76f1a7b7e4a0110e4efd81",
-      "download_count": 89,
-      "created_at": "2026-11-16T20:55:53Z",
-      "updated_at": "2026-11-16T20:55:54Z",
-      "browser_download_url": "https://github.com/obsidianmd/obsidian-skills/releases/download/1.2.0/obsidian-gemini.tar.gz"
+      "size": 22238,
+      "digest": "sha256:3c06299e2fbf2c481aab79edaa2a2d0ec8461c96a932f4a8e9bd9d845401ae98",
+      "download_count": 14,
+      "created_at": "2026-11-20T19:22:55Z",
+      "updated_at": "2026-11-20T19:22:55Z",
+      "browser_download_url": "https://github.com/obsidianmd/obsidian-skills/releases/download/1.2.1/obsidian-gemini.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/obsidianmd/obsidian-skills/tarball/1.2.0",
-  "zipball_url": "https://api.github.com/repos/obsidianmd/obsidian-skills/zipball/1.2.0",
-  "body": "Obsidian Skills now has a skill for Obsidian Headless, so agents can sync and publish vaults without the desktop app. The plugin also installs in Gemini CLI.\n\nIf you installed from the Claude Code marketplace, run `claude plugin update obsidian@obsidian-skills`.\n\n### Plugin\n\n- Added a Gemini CLI extension: `gemini extensions install https://github.com/obsidianmd/obsidian-skills`.\n\n### Skills\n\n- Headless: added a skill for `ob`, the Obsidian Headless CLI, to sync and publish vaults from the command line. It asks the user to type passwords and runs `publish` with `--dry-run` first (#75, #155).\n- Bases: added kanban views and `groupOrder` (#153), and documented the `note.` prefix that `displayName` needs in `properties` (#84).\n- Obsidian CLI: on WSL, call `Obsidian.com` instead of `Obsidian.exe` so output isn't lost (#96).\n\nThanks @catlee, @bencharoenwong, @hst368 and @citizen204!\n",
-  "reactions": {
-    "url": "https://api.github.com/repos/obsidianmd/obsidian-skills/releases/447603381/reactions",
-    "total_count": 7,
-    "+1": 5,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 1,
-    "rocket": 1,
-    "eyes": 0
-  },
-  "mentions_count": 4
+  "tarball_url": "https://api.github.com/repos/obsidianmd/obsidian-skills/tarball/1.2.1",
+  "zipball_url": "https://api.github.com/repos/obsidianmd/obsidian-skills/zipball/1.2.1",
+  "body": "The Obsidian skills now load in Grok Bot.\n\n### Plugin\n\n- Cursor manifest: declared the `skills/` folder, which Grok Bot needs to find the skills (#163).\n\nThanks @davidabrooks!\n",
+  "mentions_count": 1
 }
