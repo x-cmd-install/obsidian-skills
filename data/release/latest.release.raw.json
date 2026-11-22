@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22238,
       "digest": "sha256:3c06299e2fbf2c481aab79edaa2a2d0ec8461c96a932f4a8e9bd9d845401ae98",
-      "download_count": 14,
+      "download_count": 32,
       "created_at": "2026-11-20T19:22:55Z",
       "updated_at": "2026-11-20T19:22:55Z",
       "browser_download_url": "https://github.com/obsidianmd/obsidian-skills/releases/download/1.2.1/obsidian-gemini.tar.gz"
@@ -76,5 +76,17 @@
   "tarball_url": "https://api.github.com/repos/obsidianmd/obsidian-skills/tarball/1.2.1",
   "zipball_url": "https://api.github.com/repos/obsidianmd/obsidian-skills/zipball/1.2.1",
   "body": "The Obsidian skills now load in Grok Bot.\n\n### Plugin\n\n- Cursor manifest: declared the `skills/` folder, which Grok Bot needs to find the skills (#163).\n\nThanks @davidabrooks!\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/obsidianmd/obsidian-skills/releases/453092636/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 1
 }
