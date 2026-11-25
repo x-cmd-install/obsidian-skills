@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22238,
       "digest": "sha256:3c06299e2fbf2c481aab79edaa2a2d0ec8461c96a932f4a8e9bd9d845401ae98",
-      "download_count": 96,
+      "download_count": 117,
       "created_at": "2026-11-20T19:22:55Z",
       "updated_at": "2026-11-20T19:22:55Z",
       "browser_download_url": "https://github.com/obsidianmd/obsidian-skills/releases/download/1.2.1/obsidian-gemini.tar.gz"
