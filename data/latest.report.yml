@@ -7,7 +7,7 @@ about:
   latestVersion: "1.2.3"
   latestRelease: "1.2.3"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:43:33Z
+  collectedAt: 2026-11-28T07:45:42Z
 timeline:
   created: 2026-01-02
   lastCommit: 2026-11-26
@@ -15,19 +15,19 @@ timeline:
   lastRelease: 2026-11-25
   lastPrerelease: 
 popularity:
-  star: 54138
-  watcher: 238
-  fork: 3852
+  star: 54419
+  watcher: 239
+  fork: 3871
   release: 5
   contributor: 26
   pullRequest: 94
-  issue: 62
+  issue: 63
 language:
   Shell: 1631
 totalBytes: 1631
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 5
     mergedPR: 0
     openPR: 0
@@ -35,7 +35,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 5
     mergedPR: 0
     openPR: 0
@@ -43,7 +43,7 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 5
     mergedPR: 0
     openPR: 0
@@ -51,7 +51,7 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 5
     mergedPR: 0
     openPR: 0
@@ -59,7 +59,7 @@ recent:
     openIssue: 0
     commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 5
     mergedPR: 0
     openPR: 0
@@ -67,7 +67,7 @@ recent:
     openIssue: 0
     commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 5
     mergedPR: 0
     openPR: 0
@@ -78,12 +78,12 @@ total:
   release: 5
   mergedPR: 34
   openPR: 2
-  closedIssue: 59
+  closedIssue: 60
   openIssue: 3
   commit: 111
 ---
 path: /home/runner/.x-repo/github.com/kepano/obsidian-skills
-collectedAt: 2026-11-27T08:43:34Z
+collectedAt: 2026-11-28T07:45:43Z
 loc:
   Json:
     code: 69
@@ -108,4 +108,4 @@ total:
 ---
 
 ---
-{"id":458489960,"author":{"login":"kepano","id":10565871,"node_id":"MDQ6VXNlcjEwNTY1ODcx","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQyvZCM4bVABo","tag_name":"1.2.3","target_commitish":"a53f5910cd68e7bad88ea52f2f4eb95b9aa40800","name":"1.2.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-25T18:28:47Z","updated_at":"2026-11-25T18:29:08Z","published_at":"2026-11-25T18:28:57Z","assets":[{"id":792660309,"node_id":"RA_kwDOQyvZCM4vPwlV","name":"obsidian-gemini.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":22354,"digest":"sha256:34d5061c2dd1b4d7d411ed2e2e6d562272d508154e7e5fb41792fedc0161adf1","download_count":62,"created_at":"2026-11-25T18:29:08Z","updated_at":"2026-11-25T18:29:08Z"}],"body":"The plugin now has a manifest for Google Antigravity.\n\n### Plugin\n\n- Added `.antigravity-plugin/plugin.json` with a display name, logo and suggested prompts for the Antigravity Marketplace.\n"}
+{"id":458489960,"author":{"login":"kepano","id":10565871,"node_id":"MDQ6VXNlcjEwNTY1ODcx","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQyvZCM4bVABo","tag_name":"1.2.3","target_commitish":"a53f5910cd68e7bad88ea52f2f4eb95b9aa40800","name":"1.2.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-25T18:28:47Z","updated_at":"2026-11-25T18:29:08Z","published_at":"2026-11-25T18:28:57Z","assets":[{"id":792660309,"node_id":"RA_kwDOQyvZCM4vPwlV","name":"obsidian-gemini.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":22354,"digest":"sha256:34d5061c2dd1b4d7d411ed2e2e6d562272d508154e7e5fb41792fedc0161adf1","download_count":92,"created_at":"2026-11-25T18:29:08Z","updated_at":"2026-11-25T18:29:08Z"}],"body":"The plugin now has a manifest for Google Antigravity.\n\n### Plugin\n\n- Added `.antigravity-plugin/plugin.json` with a display name, logo and suggested prompts for the Antigravity Marketplace.\n"}

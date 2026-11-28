@@ -1,0 +1,110 @@
+about:
+  description: "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas."
+  license: MIT
+  homepage: 
+  head: 9c9560a
+  archived: false
+  latestVersion: "1.2.3"
+  latestRelease: "1.2.3"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:45:42Z
+timeline:
+  created: 2026-01-02
+  lastCommit: 2026-11-26
+  lastVersion: 2026-11-25
+  lastRelease: 2026-11-25
+  lastPrerelease: 
+popularity:
+  star: 54419
+  watcher: 239
+  fork: 3871
+  release: 5
+  contributor: 26
+  pullRequest: 94
+  issue: 63
+language:
+  Shell: 1631
+totalBytes: 1631
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 5
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 5
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 5
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 5
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 5
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 5
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 5
+  mergedPR: 34
+  openPR: 2
+  closedIssue: 60
+  openIssue: 3
+  commit: 111
+---
+path: /home/runner/.x-repo/github.com/kepano/obsidian-skills
+collectedAt: 2026-11-28T07:45:43Z
+loc:
+  Json:
+    code: 69
+    comments: 0
+    blanks: 0
+    files: 2
+  Sh:
+    code: 44
+    comments: 3
+    blanks: 13
+    files: 2
+  Markdown:
+    code: 0
+    comments: 936
+    blanks: 457
+    files: 14
+total:
+  code: 823
+  comments: 1060
+  blanks: 518
+  files: 18
+---
+
+---
